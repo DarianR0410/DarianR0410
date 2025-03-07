@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Darian</h1>
-<h3 align="center">a software developer student currently working on various projects to expand my knowledge. I’m passionate about learning new tools and languages, and I’m a fast learner who can multitask efficiently.</h3>
+<h3 align="center">A software developer student currently working on various projects to expand my knowledge. I’m passionate about learning new tools and languages, and I’m a fast learner who can multitask efficiently.</h3>
 
 - 🔭 I’m currently working on **various projects to expand and deepen my knowledge.**
 
