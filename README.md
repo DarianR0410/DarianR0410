@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋🏻 I'm a software developer student currently working on various projects to expand my knowledge. I’m passionate about learning new tools and languages, and I’m a fast learner who can multitask efficiently.
+Hello 👋🏻 I'm a software developer student currently working on various projects to expand my knowledge. I’m passionate about learning new tools and languages, and I’m a fast learner who can multitask efficiently.<br><br>
 <br>🔭 I’m currently working on various projects to expand and deepen my knowledge.<br><br>🌱 I’m currently learning Spring boot.<br><br>👯 I’m looking to collaborate on any project that challenges me and contributes to my growth as a programmer.<br><br>💬 Ask me about Java, JavaScript, TypeScript, C#, SQL, or any other language I explore.<br><br>📫 How to reach me ram.darian0410@gmail.com<br><br>⚡ Fun fact When I'm not coding, you'll find me diving into physics or exploring the wonders of astronomy.
 
 
